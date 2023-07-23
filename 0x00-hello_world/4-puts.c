@@ -1,9 +1,12 @@
 #include <stdio.h>
 
-/*the int main */
+/**
+ * my_function - This is a description
+ */
 int main(void)
 {
-	char mystr[] = "Programming is like building a multilingual puzzle";
+	char mystr[] = "\"Programming is like building a multilingual puzzle";
+	
 	puts(mystr);
 
 
