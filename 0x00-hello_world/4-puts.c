@@ -1,8 +1,4 @@
 #include <stdio.h>
-
-/**
- * my_function - This is a description
- */
 int main(void)
 {
 	char mystr[] = "\"Programming is like building a multilingual puzzle";
@@ -11,9 +7,5 @@ int main(void)
 
 
 	return (0);
-
-/**
- * my_function - This is a description
- */
 
 }
