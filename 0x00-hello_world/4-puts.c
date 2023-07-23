@@ -12,6 +12,8 @@ int main(void)
 
 	return (0);
 
-
+/**
+ * my_function - This is a description
+ */
 
 }
