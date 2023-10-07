@@ -8,7 +8,7 @@
  *
  * Description: printing all arguments
  *
- * return 0 on success
+ * Return 0 on success
  */
 int main(int argc, char *argv[])
 {
