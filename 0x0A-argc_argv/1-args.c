@@ -14,6 +14,6 @@ int main(int argc, char *argv[])
 {
 	if (argc > 0)
 	{
-	return (printf("%i\n", argc));
+	return (printf("%i\n", (argc - 1)));
 	}
 }
