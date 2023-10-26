@@ -5,3 +5,4 @@
  * in the 0x14-bit_manupulation directory.
  */
 unsigned int binary_to_uint(const char *b);
+#endif
